@@ -1,3 +1,33 @@
+# Data Science Guided Capstone – Completed Deliverables
+
+This repository contains my completed work for the Springboard Data Science Guided Capstone.  
+All key deliverables (notebooks, report, and slide deck) are linked below for quick access.
+
+---
+
+## 📓 Notebooks
+- [02 Data Wrangling](Notebooks/02_data_wrangling.ipynb)
+- [03 Exploratory Data Analysis](Notebooks/03_exploratory_data_analysis.ipynb)
+- [04 Preprocessing and Training](Notebooks/04_preprocessing_and_training.ipynb)
+- [05 Modeling](Notebooks/05_modeling.ipynb)
+
+---
+
+## 📄 Documentation
+- [Summary Report (PDF)](Documentation/Summary_Report.pdf)
+- [Slide Deck (PDF)](Documentation/Slide_Deck.pdf)
+
+---
+
+## 🛠️ Tools & Libraries
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebook
+- GitHub for version control
+
+---
+
+## Springboard Original Instructions
+
 # DataScienceGuidedCapstone
 
 Hello students!
