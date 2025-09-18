@@ -5,7 +5,7 @@ All key deliverables (notebooks, report, and slide deck) are linked below for qu
 
 ---
 
-## 📓 Notebooks
+## Notebooks
 - [02 Data Wrangling](Notebooks/02_data_wrangling.ipynb)
 - [03 Exploratory Data Analysis](Notebooks/03_exploratory_data_analysis.ipynb)
 - [04 Preprocessing and Training](Notebooks/04_preprocessing_and_training.ipynb)
@@ -13,13 +13,13 @@ All key deliverables (notebooks, report, and slide deck) are linked below for qu
 
 ---
 
-## 📄 Documentation
+## Documentation
 - [Summary Report (PDF)](Documentation/Summary_Report.pdf)
 - [Slide Deck (PDF)](Documentation/Slide_Deck.pdf)
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Jupyter Notebook
 - GitHub for version control
